@@ -1,0 +1,9 @@
+c:\users\fiach\documents\visual studio 2013\Projects\SimplyBook\bin\Debug\SimplyBook.exe.config
+c:\users\fiach\documents\visual studio 2013\Projects\SimplyBook\obj\Debug\SimplyBook.csprojResolveAssemblyReference.cache
+c:\users\fiach\documents\visual studio 2013\Projects\SimplyBook\bin\Debug\SimplyBook.exe
+c:\users\fiach\documents\visual studio 2013\Projects\SimplyBook\bin\Debug\SimplyBook.pdb
+c:\users\fiach\documents\visual studio 2013\Projects\SimplyBook\obj\Debug\SimplyBook.exe
+c:\users\fiach\documents\visual studio 2013\Projects\SimplyBook\obj\Debug\SimplyBook.pdb
+c:\users\fiach\documents\visual studio 2013\Projects\SimplyBook\bin\Debug\simplybook.html
+C:\Users\fiach\Documents\Visual Studio 2013\Projects\SimplyBook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fiach\Documents\Visual Studio 2013\Projects\SimplyBook\bin\Debug\Newtonsoft.Json.xml
